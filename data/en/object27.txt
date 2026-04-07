@@ -1,0 +1,10 @@
+﻿[TITLE]
+"Eurasia" Cultural and Sports Complex
+[DESCRIPTION]
+This sports and health complex was built in 1984. The complex includes a 600-seat sports hall, a swimming pool, bowling alley, and an athletic training hall, serving 84 people per shift.
+[TASK]
+Task 13. Inside the Eurasia cultural and sports complex, there is a swimming pool with a total area of 600 square meters and a length of 25 m. The pool is divided into 6 lanes (blocks). 
+1) Calculate the width of the pool. 
+2) Calculate the area of each lane (block).
+[ANSWER]
+pool width is 24m, area of each lane is 100 m2

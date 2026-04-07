@@ -1,0 +1,8 @@
+[TITLE]
+Art Center
+[DESCRIPTION]
+In September 2022, the foundation of a center for 1,000 visitors was laid in Kyzylorda. The building was commissioned in March 2026. The skyscraper hosts concert programs of symphonic, pop and national art trends and social events of various formats.
+[TASK]
+The Kazakh national ornament is applied on the facade of the building inside the isosceles triangle. Before inserting the thread, the designer must measure the angles so that it is positioned symmetrically. Assuming that one angle of an isosceles triangle is 124°. Find its other corners.
+[ANSWER]
+28° and 28°

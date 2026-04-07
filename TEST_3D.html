@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Тест 3D моделей</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+        #testViewer {
+            width: 100%;
+            height: 600px;
+            border: 2px solid #0A3D62;
+            border-radius: 10px;
+            background: #f0f0f0;
+        }
+        .info {
+            margin: 20px 0;
+            padding: 15px;
+            background: #e8f4f8;
+            border-left: 4px solid #0A3D62;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Тест загрузки 3D моделей</h1>
+    <div class="info">
+        <p><strong>Проверка:</strong></p>
+        <p id="threeStatus">Three.js: проверяется...</p>
+        <p id="loaderStatus">GLTFLoader: проверяется...</p>
+    </div>
+    <div id="testViewer"></div>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="js/GLTFLoader.js"></script>
+    <script>
+        // Check Three.js
+        const threeStatus = document.getElementById('threeStatus');
+        if (typeof THREE !== 'undefined') {
+            threeStatus.textContent = 'Three.js: ✓ Загружен (версия: ' + THREE.REVISION + ')';
+            threeStatus.style.color = 'green';
+        } else {
+            threeStatus.textContent = 'Three.js: ✗ НЕ загружен';
+            threeStatus.style.color = 'red';
+        }
+        
+        // Check GLTFLoader
+        const loaderStatus = document.getElementById('loaderStatus');
+        setTimeout(() => {
+            if (typeof THREE !== 'undefined' && THREE.GLTFLoader) {
+                loaderStatus.textContent = 'GLTFLoader: ✓ Загружен';
+                loaderStatus.style.color = 'green';
+                
+                // Try to load a model
+                const loader = new THREE.GLTFLoader();
+                const container = document.getElementById('testViewer');
+                
+                // Create scene
+                const scene = new THREE.Scene();
+                const camera = new THREE.PerspectiveCamera(75, container.clientWidth / container.clientHeight, 0.1, 1000);
+                const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+                renderer.setSize(container.clientWidth, container.clientHeight);
+                renderer.setClearColor(0xf0f0f0, 1);
+                container.appendChild(renderer.domElement);
+                
+                // Add lights
+                const ambientLight = new THREE.AmbientLight(0xffffff, 0.6);
+                scene.add(ambientLight);
+                const directionalLight = new THREE.DirectionalLight(0xffffff, 0.8);
+                directionalLight.position.set(5, 10, 5);
+                scene.add(directionalLight);
+                
+                camera.position.z = 5;
+                
+                // Try to load model (you need to specify a model file)
+                container.innerHTML = '<p style="padding: 20px; text-align: center;">GLTFLoader работает! Попробуйте загрузить модель через интерфейс сайта.</p>';
+                container.appendChild(renderer.domElement);
+                
+            } else {
+                loaderStatus.textContent = 'GLTFLoader: ✗ НЕ загружен';
+                loaderStatus.style.color = 'red';
+            }
+        }, 500);
+    </script>
+</body>
+</html>

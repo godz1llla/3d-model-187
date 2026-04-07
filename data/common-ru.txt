@@ -1,0 +1,14 @@
+[back]
+← Назад
+[model-title]
+3D Модель
+[fullscreen]
+Полноэкранный режим
+[task-title]
+Задача
+[answer-placeholder]
+Введите ответ...
+[check-btn]
+Проверить ответ
+[footer-text]
+© 2026 Образовательный сайт

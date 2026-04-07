@@ -1,0 +1,8 @@
+[TITLE]
+T. Zhurgenov House of Creativity
+[DESCRIPTION]
+LLP "T. Zhurgenov House of Creativity" and a printing house are located on S. Beybarys Street, Kyzylorda. The building was renovated and put into operation in 2018. The facility consists of one 3-storey block.
+[TASK]
+On the upper roof of the building "T. Zhurgenov House of Creativity", a window of a regular rectangular pyramidal shape is installed. A regular square pyramid S_ABCD with a vertex S is given. The angle between the side face and the side of the base is 60°, and AB = ∜3. Find the area of the side surface of this pyramid.
+[ANSWER]
+3

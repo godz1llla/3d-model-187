@@ -1,0 +1,8 @@
+﻿[TITLE]
+Ice Arena
+[DESCRIPTION]
+The Ice Arena in Kyzylorda was opened on September 23, 2013. The city administration allocated 1.5 hectares of land for its construction. The complex has 900 seats and is designed for international competitions. The "Ice Arena" complex includes a skating rink, a hall for team games (volleyball, basketball), a training hall for martial arts, and a choreographic classroom for sports dances.
+[TASK]
+Task 14. The ice rink field is 60m long and 30m wide. It is enclosed by panels. Each panel is 2m long and 1.25m wide (high). What is the total area of all panels used to enclose the rectangular field?
+[ANSWER]
+225 m²

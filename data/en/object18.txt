@@ -1,0 +1,11 @@
+[TITLE]
+Syr Ana Monument
+[DESCRIPTION]
+The Syr Ana Monument is a complex erected in 2001 on the eve of the 20th anniversary of the country's independence as a gift for the Independence Day celebration. From a distance the structure brings to mind the image of a beautiful bride. The height of the monument is 39 meters. From the observation deck at a height of 32 meters there is a view of the entire city. The base structure of the monument combines a cone with a hexagonal prism. The dome features triangles or a right pyramid. The top is made to resemble a saukele headdress that highlights the image of a Kazakh woman. The tower top in the image of the saukele is completed with a detail in the shape of scattered rice. As this project aims to glorify our Syr Ana, it has become an architectural landmark that embodies the grandeur of the nation.
+[TASK]
+Task 3. It is known that the upper part of the monument is a regular pentagonal pyramid. Can there exist a pentagonal pyramid that satisfies the following conditions? If yes, draw a sketch of such a pyramid; if not, justify your answer.
+1. Is there a pentagonal pyramid in which all edges are equal?
+2. Is there a pentagonal pyramid in which the areas of all faces are equal?
+3. Is there a pentagonal pyramid in which one vertex is equidistant from all other vertices?
+[ANSWER]
+Question 1: Yes. Question 2: Yes. Question 3: Yes.

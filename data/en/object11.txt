@@ -1,0 +1,8 @@
+[TITLE]
+Bolashak University
+[DESCRIPTION]
+In 2019, a large building with a sloping wall of 12 floors on the southern part. The part on the left is a building with a vertical wall of 14 floors, and the part on the right is a complex 5-story tension structure. The building has social and cultural halls, a gym, 2 assembly halls for 850 seats, 8 lecture and demonstration halls, and a library.
+[TASK]
+The width of the large building is 14 floors, and the slope is the wall on the left side. If the width is 2 times larger, then the building is built along the width of the left side. The area of the building is 1200 square meters. What should be the width and length of the building?
+[ANSWER]
+48.098 m; 24.49 m

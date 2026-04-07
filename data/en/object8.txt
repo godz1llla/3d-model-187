@@ -1,0 +1,8 @@
+[TITLE]
+Kyzylorda Region Akimat
+[DESCRIPTION]
+Building was commissioned in March 2014. The middle block of the building consists of 7 floors, and the blocks on both sides of 5 floors.
+[TASK]
+Two employees simultaneously took the elevator to the 6th and 7th floors and immediately went down, repeating this several times. When two employees are at the same height?
+[ANSWER]
+2nd floor

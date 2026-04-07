@@ -1,0 +1,8 @@
+[TITLE]
+ForteBank JSC
+[DESCRIPTION]
+ForteBank is a Kazakhstani private bank that is among the top five largest banks in Kazakhstan. The clients of the ForteBank regional branch are more than 30,000 individuals and about 2,000 entrepreneurs.
+[TASK]
+The ForteBank building is faced with double-glazed windows. One side of the building, facing upward, is a rectangle. Let this rectangle have a length of 5 m and a width of 4 m. 1) Find the area of this rectangle; 2) It is necessary to calculate the number of double-glazed windows that will go to facing one side of the building. The size of one double-glazed window is 1 x 0.5 m.
+[ANSWER]
+20 m2; 40 pcs

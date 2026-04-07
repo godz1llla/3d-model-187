@@ -1,0 +1,8 @@
+[TITLE]
+Railway Station
+[DESCRIPTION]
+Foundation of the historical building was laid in the period 1900-1905 for the construction of the Orenburg-Tashkent highway. Subsequently, a new 3-storey train station was built in 1969. According to historical records, the Russian Emperor Nicholas II has founded idea of the construction of the railway station, which was one of the most beautiful buildings in Kyzylorda, named after Perovsky. The station was distinguished by incredibly beautiful architecture and quality. The total length of the mainline railway network passing through the Kyzylorda region is 1051.7 km. There are 8 railway stations serving passengers in the region.
+[TASK]
+Part of the Kyzylorda railway station consists of two floors. Width of this building is 73 meters. The first floor occupies 60% of the total width of the building, and the second floor occupies the remaining 40%. 1. What is the width of the first floor of the station? 2. What is the width of the second floor of the station? 3. If the height of each floor is 5 meters, then what is the total floor area of the station?
+[ANSWER]
+43.8 m; 29.2 m; 365 m2

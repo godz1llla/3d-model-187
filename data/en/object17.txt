@@ -1,0 +1,19 @@
+[TITLE]
+Eternal Glory Memorial
+[DESCRIPTION]
+In the city of Kyzylorda, to honor and commemorate the warriors and heroes of the Soviet Union who took part in the Great Patriotic War of 1941–1945, the memorial was erected in February 1975 on the occasion of the 30th anniversary of the Great Victory by decree of the Central Committee of the Communist Party of Kazakhstan. The height of the monument is 20 meters. It is made of concrete, with two stepped stairways installed on the platform. The memorial construction used titanium, granite, marble and brass. The main part of the monument is a stele mounted on the platform. On its two sides is the inscription "1941-1945", and in the center — "The name of the hero lives in the memory of the people." The base element of the stele is the image of the Eternal Flame and a five-pointed star rising to the sky. The monument is located in the city of Kyzylorda on Dinmukhamed Kunayev Street.
+[TASK]
+Task 2. The top of the monument is made in the shape of a five-pointed star (Figure 1). Two children, having noticed the five-pointed star on the monument, asked each other a question. "We need to find the sum of the five acute angles of the five-pointed star," said one. Help the friend solve the problem easily.
+
+Solution: α_1+α_2+α_3+α_4+α_5=180°
+the polygon inside the star is a regular pentagon
+angle of a regular polygon: α=((n-2))/n ×180°.
+when n=5: α=((5-2))/5 ×180°
+α=108°.
+α+∠BCA=180° (adjacent angles)
+∠BCA=72°
+∠BCA=∠ABC=72°, then ∠A=36°
+α_1=α_2=α_3=α_4=α_5=36°
+α_1+α_2+α_3+α_4+α_5=36°×5=180°
+[ANSWER]
+The sum of the five acute angles is 180°.

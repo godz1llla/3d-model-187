@@ -1,0 +1,175 @@
+TASKS ON THE SIGHTS AND OBJECTS OF THE RENOVATED KYZYLORDA
+Art Center
+In September 2022, the foundation of a center for 1,000 visitors was laid in Kyzylorda. The building was commissioned in March 2026. The skyscraper hosts concert programs of symphonic, pop and national art trends and social events of various formats.
+
+Task. The Kazakh national ornament is applied on the facade of the building inside the isosceles triangle. Before inserting the thread, the designer must measure the angles so that it is positioned symmetrically. Assuming that one angle of an isosceles triangle is 124°. Find its other corners (Figure 9).
+ Figure 9. Iisosceles triangle
+Solution:Sum of the angles of the triangle is 180°. In an isosceles triangle, the angles of the base are equal. Let 124° be one of the angles of the base, then the sum of the angles of the base 124° + 124° = 248° > 180° – the contradiction. It means that the angle of ceiling is equal to 124º.
+
+Sum of the angles at the base is 180°-124°=56°. Since the angles of the base are equal, they are both equal 56° : 2 = 28°.
+Answer: angles of the base of the triangle are 28° and 28°.
+
+
+
+
+“Anaga Tagzim” center 
+
+“Anaga Tagzim” Center is a newly built cultural and social facility of national and modern type in the city center. The Anaga Tagzim Center is a blessed Shanyrak, where mothers and brides of all"Syr Eli" gather. The starting time of the center construction is planned to February, 2023. The building area is 1379.3 m2. 
+In the exhibition complex “Anaga tagzim”, where the past and present of our people are intertwined, there is a unique painting "The great mothers of the Kazakh people" and an installation of a yurt, telling about the life of our nation. There are also 4 clubs: (“Miras”Grandmothers Club, “Talisar”girls Club, “Native language” debate club, “A young family” Young Families Club, office of a psychologist mediator), 2 studios: (“Blessing” culinary studio, “Shamshyrak” photo and video studio). There is a museum hall "The Sapphire of the Nation",conference hall with 50 seats, a cultural and concert hall for 100 people and a coworking center.
+
+Task . The entrance glass part of the Center “AnagaTagzim”. Center has the shape of two rectangular trapezoids (Figure 10). Assuming that the length of one part of a rectangular trapezoid is 9 m and 8 m and the width is 3.5 m and 3 m, as shown in Figure 11. Finding out how much fiberglass is needed for this part, you need to calculate the total area of the figure.
+ 
+Figure 10. The glass part of the main entrance	                
+
+Figure 11. Rectangular trapezoid
+	
+Solution: first you need to calculate the area of the rectangle S1 =a ∙ b. The area of the rectangle is S1 = 8 • 3 = 24 m2. Next, calculated the area of the triangle using Heron's formula:
+ , where .
+Substituting the values of the three sides of the triangle, we find its perimeter: 
+	
+Area of the triangle is equal to
+ m2. Then the total area of one of the rectangular trapezoids is S =S1 + S2 = 24+1,39 =25,39 m2. Since the complete figure consists of two rectangular trapezoids, it is equal to 50,78m.
+
+Answer: area of the complete figure is equal to 50,78m2.
+
+
+
+ Wedding Palace 
+Wedding Palace Center was built and put into operation in 2023. The building consists of two floors. On the ground floor there is a waiting room, an elevator hall, a dressing room, rooms for administration and staff. On the second floor there is a Small hall, large halls, wedding rooms, guest rooms.
+
+Task . Above the building of the Wedding Palace there is a dome under the sign of “shanyrak”. It is known that the dome has the shape of a hemisphere. When creating a small building layout from the material, students receive a thickness of 0.25 cm hemispherical dome, and an inner radius of 5 cm. It is necessary to find the area of the outer surface of the dome (π ≈ 3.14).
+Solution: the surface area of the sphere: S=4πR2. To the length of the radius, add the length of the thickness of the spherical dome:
+
+R=5+0.25=5.25 cm. 
+
+Since the dome is shaped like a hemisphere, we divide the total area by 2:
+S=(4∙3,14∙〖5,25〗^2)/2=2∙3,14∙27,5625=173,0925≈173,1〖 cm〗^2
+
+Answer: the area of the outer surface of the dome is 173.1 cm2.
+
+
+
+
+“ForteBank” JointStock Company
+ForteBank is a Kazakhstani private bank, one of the five largest banks in Kazakhstan. The clients of the regional branch of ForteBank are more than 30,000 individuals and about 2,000 entrepreneurs.
+
+Task. The ForteBank building is lined with double-glazed windows. One side of the building, facing up, is a rectangle (Figure 13). Let this rectangle be 5 m long and 4 m wide. 
+1) Find the area of this rectangle;  
+2) It is necessary to calculate the number of double-glazed windows that will be used to cover one side of the building.  The size of one double-glazed window is 1 x 0.5 m (Figure 14).
+
+Figure 13. Image of the building  Figure 14.Shape of the glass
+
+Solution:
+1) The area of the rectangle is calculated using the formula S =a · b. Then the area of the rectangle is S = 5 • 4 = 20 m2. 
+2) Since the size of onedouble-glazed window is 1 x 0.5 m, 2 pieces of glass are consumed per 1 m2 of rectangle area. To cover a rectangle with an area of 20 m2, you will need 20 * 2 = 40 pieces of double-glazed windows.
+Answer: area of the rectangle is 20 m2; number of double-glazed windows going to the cladding of one side of the building is 40 pcs.
+
+Korkyt ata International Airport 
+Korkyt ata International Airport total area of the two-storey terminal with stained glass windows named after Korkyt ata is 7,500 square meters. The exterior of the building is lined with natural stone and facade panels. A hinged stained glass system is installed on the glazed territory of the facades, double-glazed windows with a solid selective coating are used. Aluminum windows are also filled with double-glazed windows with a double chamber.
+New terminal provides sectors for servicing domestic and international flights, a hall for transit passengers, VIP halls (high-comfort halls for receiving / escorting passengers of a certain category). Duty Free zones, cafes, retail outlets, prayer halls, storage rooms and much more are also included. The building has 10 passport control booths, a telescopic ramp, 2 escalators, 2 elevators, and a cargo conveyor belt. Specialized places are provided for employees of border and customs services, phytosanitary and veterinary units, sanitary and epidemiologicalcontrol and police departments.
+Task.
+1) Find the angle of inclination of a 40 cm wide and 30 cm high staircase on a small escalator at the airport.
+2) Trees with a height of 24 m grow from the place where the aircraft rises to 700 m. At what angle should the plane climb in order not to crash into trees?
+
+Solution: 1) The angle of the staircase arctg (30/40)=arctg 0,75=37°
+ 2) arctg(24/700)=arctg 0.343, which is slightly less than 2º, so the answer is 2°.
+
+Answer: 37°; 2°.
+
+
+
+
+
+ The Presidential Park of the Kyzylorda
+One of such recreation places for young people is the park named after the First President of the country N.A. Nazarbayev. Today, more than 45 thousand trees are resting on the recreation area, which covers an area of 16.5 hectares. Coniferous firs, poplars, and"Syr" trees also grow among the trees, which contribute to improving air permeability. In addition, cherries, apricots and apple trees also bear fruit in the park every year. Flowers have also been planted on 2 thousand square meters of the park. Another 2 thousand squares of the park are covered with lawns. The arcade, located at the entrance to the Presidential Park, has 36 cylindrical columns forming an arc with an obtuse angle.
+
+Task. The three brothers were going to install a wireless router that occupies an area in a forest park. The plots have the same size. Each section has a length of 100 meters and is located in a triangle (Figure 15):
+
+ 
+Figure 15. The shape of the forest park
+
+The brothers decided to save the Internet and install one router for three area. To find a point that is equally close to all areas, they tightly twisted three squares in a circle and placed the router directly in the center of the resulting circle (Figure 16). But the brothers did not take into account that the router's signal reaches only 130 meters, and the Internet is lost beyond it. Will this be enough for router brothers or do you need to get a stronger one?
+
+ 
+Figure 16. Configuring the router  
+
+Solution: To understand if this router is enough for the brothers, you need to know what the radius of their circle is. If the radius is less than the coverage radius of the router, then everything is fine, but if not, then you will have to change the router.
+To do this, first draw three diameters through the circle, each of which passes through the vertex of the triangle. Each side of the triangle is also 100 meters long, because it consists of the sides of a square:
+
+ 
+Figure 17. Circumference diameters
+
+Since all three straight lines of an equilateral triangle intersect at one point, each straight line and bisector (bisects the angle) and median (bisects the opposite wall) also run at right angles to the opposite wall (Figure 17). Since the plots are square, this line also crosses the opposite side at right angles and divides the left side in half.
+ 
+Figure 18. Division of the central triangle
+
+Now let's look at the central triangle, or rather, closer to one of the formed small triangles (Figure 18). Since each blue line is a bisector, and in an equilateral triangle all angles are 60°, the left angle is 30°. We know that the sum of all the angles of a triangle is 180°, but we already have two angles - 30° and 90°. This is the upper corner 180° − 90° − 30° = 60° means that it will be equal (Figure 19):
+
+ 
+Figure 19. Marking the corners
+
+Knowing all this, we use the formula to find the length X = orange (30) × 50 = 1/√3 × 50 = 50/√3 ( Figure 20).
+
+ 
+Figure 20. Length determination
+
+Now let's go back to the whole picture and consider another triangle, one of the sides of which is the radius of the circle (Figure 21). We know that the blue lines divide the squares in half, which means that the lower part of the triangle is 50 meters. At the bottom we know that it is a rectangle, that is, the green side of the triangle is also 100 m.
+ 
+Figure 21. Determining the radius of a circle
+
+It turns out that we have a right-angled triangle with legs of 50 meters and (100+50/√3) meters, and we need to find the length of the hypotenuse. According to the Pythagorean theorem, the sum of the squares of its legs is equal to the square of the hypotenuse: a2 + b2 = c2. Let's put our values here and solve the equation:
+50² + (100 + 50/√3)² = r².    r = √(50² + (100 + 50/√3)²)
+r = √(2500 + (100 +28,86)²) = √(2500 +16606,83) = 138,22.
+
+The radius of the circle bordering all territories (138 meters) turned out to be less than the radius of the router (130 meters). This means that the brothers must either get a more powerful router, or place all their equipment closer to the router.
+
+
+Joint-Stock Company National company "QazaqGaz"
+Joint Stock Company National company "QazaqGaz" is the main gas company of the Republic Kazakhstan, representing the interests of the state in the domestic and foreign gas market. 
+
+Task. If you look closely at the QazaqGaz building, you will see the following symmetrical figure (Figure 20). Complete the following tasks for this figure. 
+1) Find the axes of symmetry of the shape and draw it;
+2) Find the area of the figure with the calculation of square centimeters.
+
+ 
+Figure 22. Symmetrical shape
+Solution: 1) Symmetrical axis of the figure
+ 
+Figure 23. Symmetrical shape
+2) The area of the figure can be found divided and connected to each other. 1 square measuring 1 x 1 cm.
+1)S_1=2см×15см=30 〖cm〗^2
+2)S_2=3см×13см=39 〖cm〗^2
+3)S_3=3×0,5см×3=4,5〖 cm〗^2
+4)S_4=1см×3см=3〖 cm〗^2
+It follows that the total area of the figure is equal to
+S=S_1+S_2+S_3+S_4=30+39+4,5+3=76,5cm2.
+
+Answer: the total area of the figure is 76.5 cm2. 
+
+
+ City hall of Kyzylorda region
+
+Building was commissioned in March 2014. The middle block of the building consists of 7 floors, and the blocks on both sides of 5 floors. 
+Task. Two employees simultaneously took the elevator to the 6th and 7th floors and immediately went down, repeating this several times. When two employees are at the same height?
+Solution: The first person goes up to the 6th floor and goes down to the 1st floor, while the second person goes up to the 7th floor and manages to go down to the 3rd floor. When they arrive on the 2nd floor, they have the same height.
+Answer: Two employees are at the same height when they arrive on the 2nd floor.
+
+
+Railway station 
+Foundation of the historical building was laid in the period 1900-1905 for the construction of the Orenburg-Tashkent highway. Subsequently, a new 3-storey train station was built in 1969. According to historical records, the Russian Emperor Nicholas II has founded idea of the construction of the railway station, which was one of the most beautiful buildings in Kyzylorda, named after Perovsky. The station was distinguished by incredibly beautiful architecture and quality. There is a legend that in Orenburg, red bricks were made and supplied for this station, and when pouring bricks, horsehair was added to increase its strength. The total length of the mainline railway network passing through the Kyzylorda region is 1051.7 km. There are 8 railway stations serving passengers in the region. 
+Task .  Part of the Kyzylorda railway station consists of two floors. Width of this building is 73 meters. The first floor occupies 60% of the total width of the building, and the second floor occupies the remaining 40%.
+1. What is the width of the first floor of the station?
+2. What is the width of the second floor of the station?
+3. If the height of each floor is 5 meters, then what is the total floor area of the station?
+Note:corners of the station building are rectangular and equal to the width of the floor on each floor. 
+
+Solution:
+1.The first floor occupies 60% of the entire width of the building, so its width is 73 × 0.6 =43.8 m. 
+2. The second floor occupies the remaining 40% of the width of the building, hence its width 73 × 0.4 =29.2 m.
+	3. Total floor area of the station is equal to the area of the first floor and the area of the second floor. The area of each floor is equal to the product of its width and height: the area of the first floor: 43.8×5=219 m2.
+The area of the second floor: 29.2×5=146 m2.
+The total floor area of the station: 219+146=365 m2. Therefore, we calculated the width of each floor and the total floor area of the station.
+Answer: width of the first floor is 43.8 m; width of the second floor is 29.2 m; total floor area is 365 m2.
+
+
+

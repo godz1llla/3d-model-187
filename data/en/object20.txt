@@ -1,0 +1,18 @@
+[TITLE]
+Sabira Maykanova House of Culture
+[DESCRIPTION]
+The house of culture was built to a standard design in 1989. In March 1996, by decision of the Syrdarya district akimat and the regional onomastic commission, it was named after USSR People's Artist S. Maykanova. It is located on Sh. Yesenov Street in the village of Tasboget.
+[TASK]
+Task 22. One wall of the house of culture named after S. Maykanova has a length of 20 m and a width of 15 m. On this wall there are 4 windows measuring 2 m×1.5 m.
+1. Find the area of the given wall of the house of culture named after S. Maykanova.
+2. Find the area of the windows on this wall.
+
+Solution:
+1. Find the surface area of the exterior wall of the cultural center:
+S=a∙b=20∙15=300 m².
+Since the windows are on the wall, to find the area of the wall itself we subtract the area of the windows from the total wall area:
+2. Find the area of the windows:
+S=4∙a∙b=4∙2∙1.5=12 m²
+S_wall=300-12=288 m².
+[ANSWER]
+300 m², 12 m²

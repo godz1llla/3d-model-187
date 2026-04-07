@@ -1,0 +1,11 @@
+GEOMETRY IN HISTORICAL AND CULTURAL MONUMENTS OF THE CITY OF KYZYLORDA.
+“SyrSuleyi”Alley
+In the "Syr Eli"  land, where Kazakh tradition and mentality was not damaged, was opened the alley "SyrSuleyi". A monument has been built in the center of the alley. It has handles and spears, which are connected to the image of a kobyz and a dombra. And Zhyrau ignited the energy of the same Bahadur souls, showed courage and made efforts to preserve the peace and unity of the country. On the two wings of the monument it is written about the "Syr Eli" and its historical capitals. Information is given about Korkyt Ata, the ancestor of Kobyz, and about the genres of Kazakh oral literature, as well as the concepts of “Psalmist” and "Suley". Authors of the monument are Amangeldy Kenenbayev, Murat Sydykov and Seit Makibayev. By visiting the Alley, you can learn all about the art and culture of "Syr Eli".
+Task. There are 21 dombra and less than 14 kobyz in the music room of the school. How many instruments are there in the music room?
+Solution:
+21 - 14 = 7 (kobyz)
+21 + 7 = 28 (tools) 
+Answer:In total, there are 28 instruments at the school.
+
+
+

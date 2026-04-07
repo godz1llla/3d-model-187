@@ -1,0 +1,13 @@
+[TITLE]
+Korkyt Ata Monument
+[DESCRIPTION]
+The monument was erected in the city of Kyzylorda, on the bank of the Syr Darya River, in honor of the thinker, philosopher, poet and composer Korkyt-baba. The monument structures are made of reinforced concrete. Marble and concrete slabs were mainly used as finishing materials. The artistic sculptural elements of the monument are made of bronze. The height of the stele is 17 m; the height of the stylobate is 3 m, the diameter of the stylobate is 27 m.
+[TASK]
+Task 1. At the base of the monument there is a circle with a diameter of 12 m. Its surface is covered with square ceramic tiles with a length of 30 cm. Determine how many ceramic tiles were used to completely cover the circular surface.
+
+Solution: First, let's convert 30 centimeters to meters. That will be 0.3 meters. Then we find the area of the circle by diameter:
+S=πr^2=3.14∙6^2=113.04 m².
+Further, to find out how many tiles are needed, we divide the areas: 
+113.04 : 0.3 = 1256.
+[ANSWER]
+1256 ceramic tiles.

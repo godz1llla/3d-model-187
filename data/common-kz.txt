@@ -1,0 +1,14 @@
+[back]
+← Артқа
+[model-title]
+3D Модель
+[fullscreen]
+Толық экран режимі
+[task-title]
+Есеп
+[answer-placeholder]
+Жауапты енгізіңіз...
+[check-btn]
+Жауапты тексеру
+[footer-text]
+© 2026 Білім беру сайты

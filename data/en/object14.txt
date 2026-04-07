@@ -1,0 +1,8 @@
+[TITLE]
+Central Mosque Akmeshit-Syrdarya
+[DESCRIPTION]
+The central mosque "Akmeshit-Syrdarya" was opened in 2008. The total land area of the mosque is 5,257 square meters, the total area of the mosque is 3,158 square meters. There is a curious fact and specificity in the construction: 6 doorways, 3 doorways are carved from century-old ebony. And the outer wall is lined with dark green granite stones. The mosque has four towers. The height of the front 2 towers is 37 meters, the rest 22 meters. The number of domes is 7, the diameter of the large dome is 20 meters, and the height of the other four smaller domes is 27 meters. In the courtyard of the mosque there is a dining room for eating, designed for 500 people, as well as men's and women's toilets for 50 people. The total area of the large hall in the mosque is 693.6 m2. The large hall has a crystal chandelier consisting of 360 lamps. The patterns on the inner walls of the mosque house show Surahs and verses of the Quran.
+[TASK]
+It is known that the diameter of the large dome of the mosque is 20 meters. Workers had to pull a thread around the edge from the inside before starting painting. Well, in order to cut the thread in its finished form, they must first be calculated. How many meters of thread goes into a circle? (π=3)
+[ANSWER]
+60 m

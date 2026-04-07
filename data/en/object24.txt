@@ -1,0 +1,8 @@
+[TITLE]
+"Batyrs of Syr Region" Monument
+[DESCRIPTION]
+The monument depicting four batyrs stands 5.5 m high and weighs 5 tons. The monument is cast in bronze, with the pedestal cladded in granite. Authors: A. Kenenbaev, Zh. Ismagulov. It is recommended for the preliminary list of historical and cultural heritage sites. Located on Konaev Street in Kyzylorda.
+[TASK]
+Task 5. The "Batyrs of Syr Region" monument, 5.5 meters high, is cast from 5 tons of bronze. How much bronze is needed for a model 11 cm high?
+[ANSWER]
+0.04 kg

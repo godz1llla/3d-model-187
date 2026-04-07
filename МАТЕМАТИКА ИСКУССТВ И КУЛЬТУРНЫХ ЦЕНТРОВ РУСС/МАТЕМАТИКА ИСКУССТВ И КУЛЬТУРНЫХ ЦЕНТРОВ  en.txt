@@ -1,0 +1,57 @@
+MATHEMATICS OF ARTS AND CULTURAL CENTERS
+Central mosque “Akmeshit-Syrdarya”
+The central mosque "Akmeshit-Syrdarya" was opened in 2008. The total land area of the mosque is 5,257 square meters, the total area of the mosque is 3,158 square meters. 
+There is a curious fact and specificity in the construction: 6 doorways, 3 doorways are carved from century-old ebony. And the outer wall is lined with dark green granite stones. The mosque has four towers. The height of the front 2 towers is 37 meters, the rest 22 meters. The number of domes is 7, the diameter of the large dome is 20 meters, and the height of the other four smaller domes is 27 meters. In the courtyard of the mosque there is a dining room for eating, designed for 500 people, as well as men's and women's toilets for 50 people.
+The total area of the large hall in the mosque is 693.6 m2. The large hall has a crystal chandelier consisting of 360 lamps. The patterns on the inner walls of the mosque house show Surahs and verses of the Quran.
+Task. It is known that the diameter of the large dome of the mosque is 20 meters (Figure 4). Workers had to pull a thread around the edge from the inside before starting painting. Well, in order to cut the thread in its finished form, they must first be calculated. How many meters of thread goes into a circle? (π=3).
+ 
+Figure 4- Inside of the large dome
+Solution: The circumference formula is calculated by L=2πr.Since it is known that the diameter is 20 meters, it is known that d=2r. Then the radius of the circle is r=10. Given that the remaining values are known, we calculate in place L=2×3×10 = 60 m. It is enough to have 60 meters of thread inside the circle.
+Answer:It takes 60 meters of thread.
+
+
+T. Zhurgenov House of Creativity
+LLP "T. Zhurgenov House of Creativity" and a printing house are located on S. Beybarys Street, Kyzylorda.  The building was renovated and put into operation in 2018. The facility consists of one 3-storey block. 
+
+Task. On the upper roof of the building " T. Zhurgenov House of Creativity", a window of a regular rectangular pyramidal shape is installed (Figure 7). A regular square pyramid S_ABCDwith a vertex S is given. The angle between the side face and the side of the base is 60ᴼ, and AB =∜3.  Find the area of the side surface of this pyramid. Find the area of the side surface of this pyramid.
+ 
+Figure 7. A regular rectangular pyramid 	
+Solution: The pyramid is regular, all the side surfaces are equal isosceles triangles. Since they have a base angle of 60O, they are isosceles, that is, all the side faces of the pyramid are equal to the side of the base.Area of a regular triangle with side a is calculated using the formula√√3/4 a^2.
+
+ Therefore, area of the side surface is
+S=4×√3/4 AS^2=√3 AS^2=√3×√3=3.
+
+Answer: area of the side surface of the pyramid is 3.
+
+
+
+
+ Youth Center 
+
+Building is located on the left bank of our city. It was produced in a new model and put into operation in 2019. The youth center has an IT park, an anti-cafe, a library, and a gym. The building consists of two blocks. One is a 37×37 m2 square, and the other is a rectangle 42 m long and 23 m wide. 
+Task. The general view of the building is shown in Figure 8. Half of the perimeter of rectangle No. 1 is 65 m. If rectangle No. 2 is a 37×37 m2 square, then square No. 3 has an area of 144 m2. Determine the perimeter of this complete figure and find the wall of the square № 3
+. 
+Figure 8. Cartographic view of the Youth center
+Solution: The perimeter of rectangle No. 1 will be 65×2 =130 m, and the side will be 32.5 m. The perimeter of square No. 2 will be 37×4=148 m. Since the common line of figures No. 1 and No. 2 starts from the center of the square, its length will be 37÷ 2=18.5 m.
+Find the area of the complete figure:P=18,5+ 2×23+42+(42-18,5)+3×37= 241 м.
+Find the side of square No. 3, find the square root of the area: √144 = 12 m.
+Answer:perimeter of thiscompletefigure is 241m, the side of squareNo.3is12m.No.3 square is 12 m.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

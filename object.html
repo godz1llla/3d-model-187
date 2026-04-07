@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle">Нысан</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css?v=20260213">
+</head>
+<body>
+    <!-- Language Switcher -->
+    <div class="lang-switcher">
+        <button class="lang-btn active" data-lang="kz">Қаз</button>
+        <button class="lang-btn" data-lang="ru">Рус</button>
+        <button class="lang-btn" data-lang="en">Eng</button>
+    </div>
+
+    <!-- Back Button -->
+    <div class="back-button">
+        <a href="index.html" class="btn-back" id="backBtn">← Артқа</a>
+    </div>
+
+    <!-- Object Content -->
+    <main class="object-page">
+        <div class="container">
+            <!-- Title -->
+            <h1 class="object-title" id="objectTitle">Жүктелуде...</h1>
+
+            <!-- Description -->
+            <div class="object-description" id="objectDescription">
+                <p>Жүктелуде...</p>
+            </div>
+
+            <!-- Image Gallery -->
+            <div class="image-gallery" id="imageGallery">
+                <!-- Images will be loaded dynamically -->
+            </div>
+
+            <!-- 3D Model Viewer -->
+            <div class="model-viewer-container">
+                <h2 class="section-title" id="modelTitle">3D Модель</h2>
+                <div class="model-controls">
+                    <button class="btn-fullscreen" id="fullscreenBtn">Толық экран режимі</button>
+                </div>
+                <div id="modelViewer" class="model-viewer">
+                    <!-- Three.js canvas will be inserted here -->
+                </div>
+            </div>
+
+            <!-- Task Section -->
+            <div class="task-section">
+                <h2 class="section-title" id="taskTitle">Есеп</h2>
+                <div class="task-content" id="taskContent">
+                    <p>Жүктелуде...</p>
+                </div>
+                <div class="task-image-container" id="taskImageContainer">
+                    <!-- Task image will be loaded if available -->
+                </div>
+                <div class="task-answer">
+                    <input 
+                        type="text" 
+                        id="answerInput" 
+                        class="answer-input" 
+                        placeholder="Жауапты енгізіңіз..."
+                    >
+                    <button class="btn-check" id="checkBtn">Жауапты тексеру</button>
+                </div>
+                <div class="answer-feedback" id="answerFeedback"></div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p id="footerText">© 2026 Білім беру сайты</p>
+    </footer>
+
+    <!-- Three.js from CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="js/GLTFLoader.js?v=20260213"></script>
+    <script src="js/lang.js?v=20260213"></script>
+    <script src="js/viewer3d.js?v=20260213"></script>
+    <script src="js/tasks.js?v=20260213"></script>
+    <script src="js/main.js?v=20260213"></script>
+</body>
+</html>

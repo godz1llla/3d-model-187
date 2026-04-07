@@ -1,0 +1,8 @@
+﻿[TITLE]
+Kyzylorda Regional Art Gallery
+[DESCRIPTION]
+On the first floor of the building, there are 3 exhibition halls displaying over 260 paintings by artists such as A. Kasteev, G. Khludov, G. Ismailov, A. Galymbaeva, S. Senchikhin, K. Kozhykov, O. Mamakova, and others. Additionally, there are 6 workshops on the second floor for artists' creative work.
+[TASK]
+Task 16. The building is divided into two parts. One part contains 3 identical exhibition halls, and the other part is divided into 6 identical auditoriums. Find the total internal area of the building if the area of one hall is 80 m² and the area of one auditorium is 20 m².
+[ANSWER]
+360 m²

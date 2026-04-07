@@ -1,0 +1,8 @@
+﻿[TITLE]
+Nazarbayev Intellectual School (NIS)
+[DESCRIPTION]
+The educational institution covers an area of 23,000 square meters. The three-story facility is designed for 720 students. There is a canteen with 360 seats. The building is divided into dormitory sections, classrooms, laboratories, and language learning blocks. The dormitory has 120 beds for children coming from other regions. The educational block features language rooms, and specialized cabinets for chemistry, biology, geography, history, and other subjects.
+[TASK]
+Task 10. The school, besides the main block, is divided into 4 identical educational blocks. The length of a block is 45 meters and the width is 14 meters. If each roll is 7 meters wide, how many meters of material are used for one such block?
+[ANSWER]
+90m

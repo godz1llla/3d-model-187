@@ -1,0 +1,15 @@
+# Large Files
+*.zip
+models/news_models/Bekezhanov_drama_teatr.glb
+models/S_Maykanova.glb
+models/A_Tokmaganbetov.glb
+models/news_models/Akmeshit_murazhai.glb
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Project Files
+.gemini/
+brain/
+node_modules/

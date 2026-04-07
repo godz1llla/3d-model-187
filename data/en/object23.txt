@@ -1,0 +1,8 @@
+[TITLE]
+Gani Muratbaev Central Stadium
+[DESCRIPTION]
+Gani Muratbaev Central Stadium is the home stadium of the "Kaisar" (Kyzylorda) football club. The foundation of the West Stand and the football fields were laid in 1968. Construction was completed and the stadium was opened to the public on October 29, 1969. The current capacity is 7,000 seats, and the total stadium area is 16,700 m². The stadium was awarded UEFA Category 2, allowing it to host qualifying matches for the UEFA Europa League and Conference League.
+[TASK]
+Task 12. The stadium is rectangular and extends from west to east. Its perimeter is 360m, and one side is 80m. How long is the second side?
+[ANSWER]
+100m

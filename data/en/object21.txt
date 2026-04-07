@@ -1,0 +1,14 @@
+[TITLE]
+Ruhani Zhangyru Center
+[DESCRIPTION]
+The building was erected in 1925 on the basis of the design of the Kazakh Central Executive Committee building — the year when the historic decision was taken to restore the name «Kazakh» to our people, who had previously been called «Kyrgyz-Kaisak».
+[TASK]
+Task 23. The Ruhani Zhangyru museum is a unique place that preserves rich and cultural heritage. Its length is 67 meters and its width is 5 meters.
+1. Find the total area of the museum.
+2. If each visitor is allocated 1 square meter of space, how many people can be in the museum at the same time?
+
+Solution:
+1. The total area of the Ruhani Zhangyru museum is found by multiplying its length by its width. 67 m×5 m=335 m². Thus, the total area of the museum is 335 square meters.
+2. If each visitor is allocated 1 square meter, then the number of people who can be in the museum at the same time is equal to the area of the museum: 335.
+[ANSWER]
+The total area of the museum is 335 m², and 335 people can be in the museum at the same time.

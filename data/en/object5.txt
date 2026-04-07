@@ -1,0 +1,8 @@
+[TITLE]
+Korkyt Ata International Airport
+[DESCRIPTION]
+The total area of the two-story terminal with stained glass windows named after Korkyt Ata is 7,500 square meters. The exterior of the building is faced with natural stone and facade panels. A suspended stained glass system is installed in the glazed area of the facades, and double-chamber glass units with hard selective coating are used. The new terminal provides service sectors for domestic and international flights, a hall for transit passengers, VIP halls. Also included are Duty Free zones, cafes, retail outlets, prayer halls, storage facilities and more.
+[TASK]
+1) Find the angle of inclination of stairs with a width of 40 cm and a height of 30 cm on a small escalator at the airport. 2) From the place where the plane takes off to 700 m, trees 24 m high grow. At what angle should the plane climb so as not to crash into the trees?
+[ANSWER]
+37°; 2°

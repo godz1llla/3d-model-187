@@ -1,0 +1,8 @@
+[TITLE]
+House of Friendship
+[DESCRIPTION]
+The House of Friendship is a cultural center designed to develop mutual understanding and cultural exchange between ethnic communities. This building hosts conferences, festivals and multicultural cultural events.
+[TASK]
+The base of the House of Friendship has a rectangular shape. If its length is 30 meters and its width is 20 meters, find the area of the base.
+[ANSWER]
+600 m²

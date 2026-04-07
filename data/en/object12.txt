@@ -1,0 +1,8 @@
+[TITLE]
+Youth Center
+[DESCRIPTION]
+Building is located on the left bank of our city. It was produced in a new model and put into operation in 2019. The youth center has an IT park, an anti-cafe, a library, and a gym. The building consists of two blocks. One is a 37×37 m2 square, and the other is a rectangle 42 m long and 23 m wide.
+[TASK]
+The general view of the building is shown in Figure 8. Half of the perimeter of rectangle No. 1 is 65 m. If rectangle No. 2 is a 37×37 m2 square, then square No. 3 has an area of 144 m2. Determine the perimeter of this complete figure and find the wall of the square № 3.
+[ANSWER]
+241 m; 12 m

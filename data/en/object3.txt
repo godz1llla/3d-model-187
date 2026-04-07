@@ -1,0 +1,8 @@
+[TITLE]
+Wedding Palace
+[DESCRIPTION]
+The "Wedding Palace" center was built and put into operation in 2023. The building consists of two floors. The first floor has a waiting room, elevator hall, wardrobe, rooms for administration and staff. The second floor has a small hall, large halls, wedding rooms, guest halls.
+[TASK]
+Above the Wedding Palace building, a dome is depicted under the "shanyrak" sign. It is known that the dome has the shape of a hemisphere. When creating a small model of the building from material, students get a hemispherical dome thickness of 0.25 cm and an inner radius of 5 cm. It is necessary to find the area of the outer surface of the dome (π ≈ 3.14).
+[ANSWER]
+173.1 cm2

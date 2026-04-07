@@ -1,0 +1,8 @@
+[TITLE]
+Anaga Tagzim Center
+[DESCRIPTION]
+"Anaga Tagzim" Center is a newly built cultural and social facility of national and modern type in the city center. The Anaga Tagzim Center is a blessed Shanyrak, where mothers and brides of all "Syr Eli" gather. The starting time of the center construction is planned to February, 2023. The building area is 1379.3 m2.
+[TASK]
+The entrance glass part of the "Anaga Tagzim" center has the shape of two rectangular trapezoids. Assuming that the length of one part of the rectangular trapezoid is 9 m and 8 m, and the width is 3.5 m and 3 m. To find out how much glass is needed for this part, you need to calculate the area of the full figure.
+[ANSWER]
+50.78 m2

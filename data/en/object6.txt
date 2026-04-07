@@ -1,0 +1,8 @@
+[TITLE]
+Presidential Park of Kyzylorda
+[DESCRIPTION]
+One of such recreation places for young people is the park named after the First President of the country N.A. Nazarbayev. Today, more than 45 thousand trees are resting on the recreation area, which covers an area of 16.5 hectares. Coniferous firs, poplars, and Syr taly trees also grow among the trees, which contribute to improving air permeability. In addition, cherries, apricots and apple trees also bear fruit in the park every year. Flowers have also been planted on 2 thousand square meters of the park. Another 2 thousand squares of the park are covered with lawns. The arcade, located at the entrance to the Presidential Park, has 36 cylindrical columns forming an arc with an obtuse angle.
+[TASK]
+The three brothers were going to install a wireless router that occupies an area in a forest park. The plots have the same size. Each section has a length of 100 meters and is located in a triangle. The brothers decided to save the Internet and install one router for three area. To find a point that is equally close to all areas, they tightly twisted three squares in a circle and placed the router directly in the center of the resulting circle. But the brothers did not take into account that the router's signal reaches only 130 meters, and the Internet is lost beyond it. Will this be enough for router brothers or do you need to get a stronger one?
+[ANSWER]
+Need a more powerful router

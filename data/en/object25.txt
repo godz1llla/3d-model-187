@@ -1,0 +1,8 @@
+﻿[TITLE]
+"Akmeshit" Museum
+[DESCRIPTION]
+The Akmeshit Museum, a branch of the regional museum of history and local lore, is located at the main gate of Kyzylorda city, adjacent to the railway station. This building was erected during the era when the city was named Perovsk and has been preserved to this day. The building was constructed in 1905 along with the railway station. The Akmeshit Museum collection includes more than two thousand exhibits. Located on Auelbekov Street in Kyzylorda. It was designated as the "Akmeshit" Museum on the 80th anniversary of Kyzylorda becoming a capital. Total land area is 0.0989 ha. Building area is 272.4 sq. m. Total floor area is 200.8 sq. m. Total volume is 1226 cu. m. It is included in the State List of monuments of history and culture of local significance.
+[TASK]
+Task 6. The planned dimensions of the Akmeshit Museum are 26 x 17 m, and the total volume is 2673 cubic meters. Calculate the height of the museum in meters.
+[ANSWER]
+6 meters

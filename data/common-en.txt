@@ -1,0 +1,14 @@
+[back]
+← Back
+[model-title]
+3D Model
+[fullscreen]
+Fullscreen Mode
+[task-title]
+Task
+[answer-placeholder]
+Enter answer...
+[check-btn]
+Check Answer
+[footer-text]
+© 2026 Educational Website

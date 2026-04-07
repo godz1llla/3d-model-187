@@ -1,0 +1,8 @@
+﻿[TITLE]
+Madina Eralieva House of Culture
+[DESCRIPTION]
+The Madina Eralieva House of Culture is located on Kashaubaev Street in Titov village, Kyzylorda. In accordance with the 2003 Decree of the Government of the Republic of Kazakhstan No. 1021, the former "Bumazhnik" palace of culture was renamed after the Honored Artist of the Republic of Kazakhstan, Madina Eralieva. It was built according to a standard design.
+[TASK]
+Task 19. The house of culture has a rectangular hall 83 meters long and 6 meters wide. A large rectangular screen with a 16:9 aspect ratio is installed on one side of the hall. What is the minimum distance from the screen to view the entire screen without distortion?
+[ANSWER]
+26.79m

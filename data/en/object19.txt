@@ -1,0 +1,12 @@
+[TITLE]
+Askhar Tokmagambetov House of Culture
+[DESCRIPTION]
+The exterior of the building is clad with "travertine", a construction material resembling limestone, and decorated in national style. The building has an auditorium and rooms for clubs and circles.
+[TASK]
+Task 21. Consider the entrance gate of the A. Tokmagambetov building. The columns at the gate are arranged as shown in Figure 6. Determine the volume of cement concrete required to construct the parts of these columns up to a height of 4 m during construction.
+
+Figure 6. Entrance to the house of culture
+
+Solution: the length and width of the base of one column at the gate are 0.5 m and 0.5 m. Since the height of the columns to be built is 4 m, they form a rectangular parallelepiped. The volume of a rectangular parallelepiped is calculated by the formula V = a•b•h. Then, by the condition of the problem, the volume of one concrete column is: V1 = 4•0.5•0.5 = 1 m³. Since Figure 6 shows 6 concrete columns, 6•V1 = 6•1 = 6 m³.
+[ANSWER]
+The volume of cement concrete for the part up to a height of 4 m is 6 m³.

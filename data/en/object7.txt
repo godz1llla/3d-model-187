@@ -1,0 +1,8 @@
+[TITLE]
+QazaqGaz National Company
+[DESCRIPTION]
+Joint Stock Company National company "QazaqGaz" is the main gas company of the Republic Kazakhstan, representing the interests of the state in the domestic and foreign gas market.
+[TASK]
+If you look closely at the QazaqGaz building, you will see the following symmetrical figure. Complete the following tasks for this figure. 1) Find the axes of symmetry of the shape and draw it; 2) Find the area of the figure with the calculation of square centimeters.
+[ANSWER]
+76.5 cm2

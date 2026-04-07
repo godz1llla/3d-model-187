@@ -1,0 +1,8 @@
+[TITLE]
+Korkyt Ata University
+[DESCRIPTION]
+Kyzylorda University named after Korkyt Ata is a higher education institution in Kyzylorda, Kazakhstan. It was founded in 1937. In 6 institutes of the university at 24 departments, specialists will be trained on 66 educational programmes of bachelor's degree, 34 programmes of master's degree, 13 educational programmes of doctoral studies (PhD). At the University about 550 teaching staff give lectures for more than 10 thousand students. There are also 5 scientific centres and military departments, 95 branches of departments at industrial enterprises.
+[TASK]
+The main building of the Korkyt Ata Kyzylorda University consists of 5 floors and 15 classrooms on each floor. Each layer forms a rectangle with certain dimensions. 1. If the length of the corridor on each floor is 50 meters and the width is 10 meters, then what is the total area of the corridors on all floors? 2. If each floor is 75 square meters, what is the total area occupied by lecture halls on all floors? 3. If all classrooms on each floor have 10 tables measuring 1 meter by 0.5 meters, then what is the total area of tables on all floors?
+[ANSWER]
+2500 m2; 5625 m2; 25 m2
