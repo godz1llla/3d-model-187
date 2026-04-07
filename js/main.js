@@ -4,8 +4,8 @@
 
 // Object list mapping (30 objects based on GLB files)
 const OBJECTS = [
-    { id: 1, nameKz: 'Өнер орталығы', nameRu: 'Центр искусств', nameEn: 'Art Center', modelFile: '' },
-    { id: 2, nameKz: 'Центр «Анага Тагзым»', nameRu: 'Центр «Анага Тагзым»', nameEn: 'Anaga Tagzim Center', modelFile: '' },
+    { id: 1, nameKz: 'Өнер орталығы', nameRu: 'Центр искусств', nameEn: 'Art Center', modelFile: 'Art_Center.glb' },
+    { id: 2, nameKz: 'Центр «Анага Тагзым»', nameRu: 'Центр «Анага Тагзым»', nameEn: 'Anaga Tagzim Center', modelFile: 'Anaga_Tagzim_Center.glb' },
     { id: 3, nameKz: 'Неке сарайы', nameRu: 'Дворец бракосочетания', nameEn: 'Wedding Palace', modelFile: 'Wedding_Palace.glb' },
     { id: 4, nameKz: '«ForteBank» акционерлік қоғамы', nameRu: 'Акционерное общество «ForteBank»', nameEn: 'ForteBank JSC', modelFile: 'ForteBank.glb' },
     { id: 5, nameKz: 'Қорқыт ата атындағы халықаралық әуежай', nameRu: 'Международный аэропорт имени Коркыт ата', nameEn: 'Korkyt Ata International Airport', modelFile: 'Airport.glb' },
@@ -25,7 +25,7 @@ const OBJECTS = [
     { id: 19, nameKz: 'Асқар Тоқмағанбетов атындағы мәдениет үйі', nameRu: 'Дом культуры имени Аскара Токмаганбетова', nameEn: 'Askhar Tokmagambetov House of Culture', modelFile: 'A_Tokmaganbetov.glb', embedUrl: '' },
     { id: 20, nameKz: 'Сәбира Майқанова атындағы мәдениет үйі', nameRu: 'Дом культуры имени Сабиры Майкановой', nameEn: 'Sabira Maykanova House of Culture', modelFile: 'S_Maykanova.glb', embedUrl: '' },
     { id: 21, nameKz: '«Рухани жаңғыру» орталығы', nameRu: 'Центр «Рухани жаңғыру»', nameEn: 'Ruhani Zhangyru Center', modelFile: 'Ruhaniyat_Center.glb' },
-    { id: 22, nameKz: 'Достық үйі', nameRu: 'Дом дружбы', nameEn: 'House of Friendship', modelFile: '' },
+    { id: 22, nameKz: 'Достық үйі', nameRu: 'Дом дружбы', nameEn: 'House of Friendship', modelFile: 'Dostyk_Ui.glb' },
     { id: 23, nameKz: 'Ғани Мұратбаев атындағы орталық стадион', nameRu: 'Центральный стадион имени Гани Муратбаева', nameEn: 'Gani Muratbaev Central Stadium', modelFile: 'stadion.glb' },
     { id: 24, nameKz: '«Сыр бойының батырлары» ескерткіші', nameRu: 'Памятник «Батыры Сыр бойы»', nameEn: 'Monument "Batyrs of Syr Region"', modelFile: 'news_models/Syr_Suleileri.glb' },
     { id: 25, nameKz: '«Ақмешіт» мұражайы', nameRu: 'Музей «Акмешит»', nameEn: 'Akmeshit Museum', modelFile: 'news_models/Akmeshit_murazhai.glb' },
