@@ -1,0 +1,8 @@
+[TITLE]
+State Symbols Square
+[DESCRIPTION]
+On the occasion of a significant holiday, the Symbols Square was commissioned for the people of Kyzylorda as the main symbol of our Independence. The "Symbols Square", covering a total area of 3 hectares, features the State Emblem, the State Anthem, and a sacred State Flag with a height of 60 meters.
+[TASK]
+Task 29. The largest flag of Kazakhstan appeared in 2009 on the territory of the "Atameken" ethno-memorial complex in Astana. The flag measures 15x30 meters, with an area of 450 square meters. Primary school students wanted to make a paper copy of the flag at a 1:500 scale and spread it out on a flat surface. For this, they use blue paper 30 cm wide and 60 cm long. It is necessary to calculate how many pieces of paper are required to make a copy of the flag.
+[ANSWER]
+5 pieces

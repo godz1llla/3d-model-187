@@ -33,7 +33,8 @@ const OBJECTS = [
     { id: 27, nameKz: 'Евразия мәдени-спорт кешені', nameRu: 'Евразия культурно-спортивный комплекс', nameEn: 'Eurasia Cultural and Sports Complex', modelFile: 'news_models/Evraziya_sport_kesheni.glb' },
     { id: 28, nameKz: 'Мұз айдыны', nameRu: 'Ледовый дворец', nameEn: 'Ice Arena', modelFile: 'news_models/Muz_aidyni.glb' },
     { id: 29, nameKz: 'Қызылорда Облыстық Көркем сурет Галереясы', nameRu: 'Кызылординская областная художественная галерея', nameEn: 'Kyzylorda Regional Art Gallery', modelFile: 'news_models/Korkem_suret_galereya.glb' },
-    { id: 30, nameKz: 'Мәдина Ералиева атындағы мәдениет үйі', nameRu: 'Дом культуры имени Мадины Ералиевой', nameEn: 'Madina Eralieva House of Culture', modelFile: '' }
+    { id: 30, nameKz: 'Мәдина Ералиева атындағы мәдениет үйі', nameRu: 'Дом культуры имени Мадины Ералиевой', nameEn: 'Madina Eralieva House of Culture', modelFile: '' },
+    { id: 31, nameKz: 'Мемлекеттік рәміздер алаңы', nameRu: 'Площадь государственных символов', nameEn: 'State Symbols Square', modelFile: '' }
 ];
 
 /**
@@ -305,7 +306,8 @@ async function loadObjectImages(objectId) {
         27: ['eurasia.jpg'],   // Евразия КСК
         28: ['ice_arena.jpg'],   // Ледовый дворец
         29: ['gallery.jpg'],   // Областная художественная галерея
-        30: ['madina_eralieva.jpg']    // Дом культуры имени Мадины Ералиевой
+        30: ['madina_eralieva.jpg'],    // Дом культуры имени Мадины Ералиевой
+        31: ['symbols_square.jpg']    // Площадь государственных символов
     };
 
     // Try to load image list first
