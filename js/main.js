@@ -33,8 +33,9 @@ const OBJECTS = [
     { id: 27, nameKz: 'Евразия мәдени-спорт кешені', nameRu: 'Евразия культурно-спортивный комплекс', nameEn: 'Eurasia Cultural and Sports Complex', modelFile: 'news_models/Evraziya_sport_kesheni.glb' },
     { id: 28, nameKz: 'Мұз айдыны', nameRu: 'Ледовый дворец', nameEn: 'Ice Arena', modelFile: 'news_models/Muz_aidyni.glb' },
     { id: 29, nameKz: 'Қызылорда Облыстық Көркем сурет Галереясы', nameRu: 'Кызылординская областная художественная галерея', nameEn: 'Kyzylorda Regional Art Gallery', modelFile: 'news_models/Korkem_suret_galereya.glb' },
-    { id: 30, nameKz: 'Мәдина Ералиева атындағы мәдениет үйі', nameRu: 'Дом культуры имени Мадины Ералиевой', nameEn: 'Madina Eralieva House of Culture', modelFile: '' },
-    { id: 31, nameKz: 'Мемлекеттік рәміздер алаңы', nameRu: 'Площадь государственных символов', nameEn: 'State Symbols Square', modelFile: '' }
+    { id: 30, nameKz: 'Мәдина Ералиева атындағы мәдениет үйі', nameRu: 'Дом культуры имени Мадины Ералиевой', nameEn: 'Madina Eralieva House of Culture', modelFile: 'Eralyieva.glb' },
+    { id: 31, nameKz: 'Мемлекеттік рәміздер алаңы', nameRu: 'Площадь государственных символов', nameEn: 'State Symbols Square', modelFile: 'State_Symbols.glb' },
+    { id: 32, nameKz: 'Әбділда Тәжібаев атындағы облыстық ғылыми кітапханасы', nameRu: 'Областная библиотека имени А. Тажибаева', nameEn: 'A. Tazhibaev Regional Library', modelFile: 'Tazhibaev_Library.glb' }
 ];
 
 /**
@@ -307,7 +308,8 @@ async function loadObjectImages(objectId) {
         28: ['ice_arena.jpg'],   // Ледовый дворец
         29: ['gallery.jpg'],   // Областная художественная галерея
         30: ['madina_eralieva.jpg'],    // Дом культуры имени Мадины Ералиевой
-        31: ['symbols_square.jpg']    // Площадь государственных символов
+        31: ['symbols_square.jpg'],    // Площадь государственных символов
+        32: ['tazhibaev_library.jpg']   // Библиотека имени А. Тажибаева
     };
 
     // Try to load image list first

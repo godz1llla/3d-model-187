@@ -1,0 +1,8 @@
+[TITLE]
+Abdilda Tazhibaev Regional Universal Scientific Library
+[DESCRIPTION]
+The regional library is the keeper of the region's information resources. The library was built in 2009. The total area of the building is 8413.5 square meters. The library building consists of 3 main floors, a basement, and technical floors. The basement contains rooms for storing book collections and auxiliary services. The library serves more than 28,000 readers a year. Book circulation is 146,805 copies. There are 11 departments and 3 sectors serving readers in the library.
+[TASK]
+Task. The central library has 50,000 children's books, with an average thickness of 2 cm each. Which is higher: a neatly stacked pile of these books or the world's tallest building, Burj Khalifa, built in Dubai in 2010? Note: The height of the Burj Khalifa skyscraper is 828 m.
+[ANSWER]
+The stack of books will be higher.
